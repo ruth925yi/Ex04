@@ -17,6 +17,12 @@ const girls=[
         age:6,
         id:"123456895"
     },
+    {
+        name:"Chaim",
+        lastName:"Tzadok",
+        age:6,
+        id:"123456896"
+    },
 ]
 
 module.exports={girls}
